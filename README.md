@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis
-this is  build  in power bi
+This is  build  in power bi
 🍕 Pizza Sales Analysis Dashboard
 📌 Overview
 The Pizza Sales Analysis Dashboard provides a comprehensive view of pizza sales performance across various dimensions such as time, category, day of the week, and pizza type. It helps stakeholders understand customer behavior, identify top-performing products, and optimize sales strategies.
